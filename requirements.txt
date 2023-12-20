@@ -1,0 +1,7 @@
+Streamlit version: 1.29.0
+yfinance version: 0.2.33
+NumPy version: 1.23.5
+Pandas version: 1.5.3
+Scikit-Learn version: 1.2.2
+TensorFlow version: 2.15.0
+Plotly version: 5.15.0
