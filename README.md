@@ -11,4 +11,4 @@ Prediksi harga penutupan Emiten Saham dengan metode LSTM dan GRU. Dataset terkai
 -Adisya Ridia Nurahma
 
 ##Tampilan Web App
-![Contoh Gambar PNG](images/TampilanWebApp.png)
+(images/TampilanWebApp.png)
