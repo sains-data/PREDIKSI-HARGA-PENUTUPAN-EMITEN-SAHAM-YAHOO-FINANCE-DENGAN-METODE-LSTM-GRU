@@ -11,6 +11,4 @@ Prediksi harga penutupan Emiten Saham dengan metode LSTM dan GRU. Dataset terkai
 -Adisya Ridia Nurahma
 
 #Tampilan Web App
-![Contoh Gambar PNG]([https://raw.githubusercontent.com/username/repository/main/images/TampilanWebApp.png](https://github.com/sains-data/PREDIKSI-HARGA-PENUTUPAN-EMITEN-SAHAM-YAHOO-FINANCE-DENGAN-METODE-LSTM-GRU/blob/main/TampilanWebApp.png)https://github.com/sains-data/PREDIKSI-HARGA-PENUTUPAN-EMITEN-SAHAM-YAHOO-FINANCE-DENGAN-METODE-LSTM-GRU/blob/main/TampilanWebApp.png)
-
-(images/TampilanWebApp.png)
+![Tampilan Web App](images/TampilanWebApp.png)
